@@ -23,16 +23,20 @@ No team Name (Solo Participant)
 -Rakshitha N (Github: https://github.com/RakshithaNagaraju74 |Linkedin: https://www.linkedin.com/in/rakshithan1274/)
 
 ### Your Approach:  
+
 - Why you chose this problem
+- 
   In today’s fast-paced and high-pressure world, teenagers—especially school and pre-university students—are silently struggling with their emotional well-being. Many are introverts or feel too hesitant to speak out, fearing judgment or misunderstanding from others.
 Some teens bottle up their feelings because they’re afraid of being seen as "too emotional" or "too weak." Others don’t speak up simply because they don’t know whom to trust.
 We developed Teen Wellness AI to fill that silent gap—to create a non-judgmental, always-available AI companion that listens, understands, and supports teens without bias, labels, or pressure.
 
 - Key challenges you addressed
+- 
   I tackled critical hurdles by safeguarding **privacy and anonymity** through nickname‑only logins and full end‑to‑end encryption, while combating **stigma and trust issues** with a non‑judgmental AI companion and soothing user experience. Continuous, **24‑hour availability** is achieved via low‑latency Groq LLMs, ensuring immediate support without human staffing. To honor **diverse expression styles**, the platform supports text, voice, and image journaling, and it delivers **accurate emotional insight** by combining NLP and vision models
   that sense nuanced moods and provide tailored guidance. Finally, built‑in **automatic language detection and real‑time translation** remove language barriers, enabling seamless multilingual conversations.
   
 - Any pivots, brainstorms, or breakthroughs during hacking
+- 
 - During the build‑athon I cycled through several pivotal moments. **Early brainstorming** revealed that storing emails—even hashed—still discouraged candid use, so we pivoted to a nickname‑only login and re‑engineered the auth flow overnight. Mid‑hack, latency tests showed mainstream LLM APIs were too slow for real‑time chat; a quick benchmarking session led me to switch to Groq’s accelerator stack, cutting response time from ~900 ms to under 100 ms. I also scrapped a planned “social feed” after user‑testing mock‑ups exposed peer‑comparison anxiety; that breakthrough redirected focus to a purely one‑to‑one AI companion. Finally, an impromptu white‑board sprint produced the idea
 - of **multimodal journaling**—adding voice and image uploads—unlocking richer mood detection than text alone. Each pivot sharpened the product toward anonymity, speed, and emotional safety.
 
