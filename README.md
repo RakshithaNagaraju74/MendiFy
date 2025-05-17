@@ -4,10 +4,6 @@
 
 ---
 
-## 📌 Problem Statement
-
-Problem Statement 01 : Weave AI magic with Groq
-
 ## 🎯 Objective
 Teen Wellness AI is an interactive platform built to support teenagers on their mental wellness journey through power of AI-driven emotional support, journaling,
 mood tracking, and voice-based interaction. Our mission is to provide a safe, anonymous, and accessible space for teens to express themselves, reflect, 
@@ -51,15 +47,7 @@ We developed Teen Wellness AI to fill that silent gap—to create a non-judgment
 - APIs: GROQ API
 - Hosting:
 
-### Sponsor Technologies Used (if any):
-- [✅ ] **Groq:** Used groq for developing two chatbots , mood tracker , Homework solver , Mood Art Genrator , Zen-AI Friend 
-- [ ] **Monad:** _Your blockchain implementation_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
-- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
-*(Mark with ✅ if completed)*
----
+
 
 ## ✨ Key Features
 
@@ -76,14 +64,6 @@ Auto Translation – Instant multilingual support.
 - **Pitch Deck / PPT Link:** [Canva Viewer : https://www.canva.com/design/DAGlY6b76t0/wD7EbtzVvn_82qm5dgy7WQ/view?utm_content=DAGlY6b76t0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2ee774a475 ]  
                              [ Google Drive : https://drive.google.com/file/d/1meLPzSkeafsOtNYFNDjfK2k3QH7pamR0/view?usp=drivesdk ]
 ---
-
-## ✅ Tasks & Bonus Checklist
-
-- [ ✅] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [✅ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [✅ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
-
-*(Mark with ✅ if completed)*
 
 ---
 
